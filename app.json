@@ -1,7 +1,7 @@
 {
     "name": "Auto Request Accept Bot",
     "description": "I am Simple Auto Request Accept Bot. Please Support",
-    "logo": "https://telegra.ph/file/8c0d6e69dab2b76786aa5.jpg",
+    "logo": "",
     "keywords": [
         "Auto",
         "Approved",
@@ -10,9 +10,9 @@
         "Link",
         "Bot"
     ],
-    "website": "https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA",
+    "website": "None",
     "repository": "https://github.com/Aadhi000/Auto-Request-Accept-Bot",
-    "success_url": "https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA",
+    "success_url": "https://t.me/Sigma_officials",
     "env": {
         "API_ID": {
             "description": "Your APP ID",
